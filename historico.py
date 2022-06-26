@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 x = ''
 while True:
     arquivo = pd.read_excel(r"C:\Users\Alysson\OneDrive\Desktop/planilha.xlsx")
